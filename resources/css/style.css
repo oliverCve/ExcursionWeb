@@ -1,4 +1,30 @@
 body{
     background-color: black;
+    color:white;
     margin:0 auto;
+    text-align: center;
+    font-family: Verdana;
+}
+h1{
+   
+    font-weight:Normal;
+    font-size:50px;
+}
+a{
+    color:aquamarine;
+    font-size:16px;
+    
+}
+h2{
+    font-family:Verdana;
+    font-weight:300;
+    font-size:42px;
+}
+p{
+    color:gray;
+    font-size:21px;
+}
+footer{
+    text-align: right;
+    color:gray;
 }
